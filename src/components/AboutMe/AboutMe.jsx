@@ -38,15 +38,14 @@ const WHAT_I_CAN_DO = [
   "UI / UX & Website Design",
   "Next.js & React",
   "WordPress Websites",
-  "Graphic Design",
   "Video Editing",
 ];
 
 const SOCIALS = [
   { icon: FaGithub, label: "GitHub", href: "https://github.com/FransManlangit" },
   { icon: FaLinkedinIn, label: "LinkedIn", href: "https://www.linkedin.com/in/frans-manlangit/" },
-  { icon: FaFacebookF, label: "Facebook", href: "#" }, // TODO: add your link
-  { icon: FaInstagram, label: "Instagram", href: "#" }, // TODO: add your link
+  { icon: FaFacebookF, label: "Facebook", href: "https://www.facebook.com/fransmanlangit25" }, // TODO: add your link
+  // { icon: FaInstagram, label: "Instagram", href: "#" }, // TODO: add your link
 ];
 
 const fadeUp = {
@@ -151,7 +150,7 @@ const AboutMe = () => {
               <div className="bg-white p-3 pb-12 shadow-[0_18px_40px_rgba(26,26,26,0.25)]">
                 <div className="aspect-[4/5] overflow-hidden bg-[#E9E7E2]">
                   <img
-                    src="/images/IcyFrans.png"
+                    src="/images/Gym.JPEG"
                     alt="Frans Manlangit"
                     draggable="false"
                     className="w-full h-full object-cover mix-blend-multiply"
