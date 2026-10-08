@@ -5,7 +5,7 @@ import Metadata from "../../components/Layout/Metadata";
 import ClickSpark from "../../components/Animations/ClickSpark";
 import Hero from "../../components/Hero/Hero";
 import AboutMe from "../../components/AboutMe/AboutMe";
-
+import Projects from "../../components/Projects/Projects";
 
 
 const Home = () => {
@@ -24,7 +24,7 @@ const Home = () => {
       </ClickSpark> */}
         <Hero />
         <AboutMe />
-       
+        <Projects />
 
         </>
     );

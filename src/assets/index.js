@@ -1,73 +1,15 @@
 import tailwindcss from "./skills/tailwindcss.png";
 
+import androidstudio from "./skills/androidstudio.png";
 
+// projects images
+import capstoneSolutionPortfolio from "./projects/CapstoneSol.png";
 
+import pcMaster from "./projects/PC.png";
 
-export {
-  logoipsum1,
-  logoipsum2,
-  logoipsum3,
-  logoipsum4,
-  logoipsum5,
-  logoipsum6,
-  logoipsum7,
-  logoipsum8,
-  androidstudio,
-  bootstrap,
-  express,
-  github,
-  html5,
-  javascript,
-  mongodb,
-  nodejs,
-  react,
-  tailwindcss,
-  capstoneSolutionPortfolio,
-  giaPortfolio,
-  hrPrimoAts,
-  meetworldHeroPage,
-  pcMaster,
-  quickForm,
-  tapinacSystem,
-  teampoorMobile,
-  teampoorWebsite,
-  teampoorWebsite2,
-  williamdarts,
-  thumbnail1,
-  thumbnail2,
-  thumbnail3,
-  thumbnail4,
-  thumbnail5,
-  thumbnail6,
-  thumbnail7,
-  thumbnail8,
-  thumbnail9,
-  chandraAds1,
-  chandraAds2,
-  chandraAds3,
-  chandraAds4,
-  chandraAds5,
-  kindoceanBlackFriday,
-  kindoceanBlackFriday2,
-  kindoceanBlackFriday3,
-  kindoceanBlackFriday4,
-  kindoceanBlackFriday5,
-  kindoceanBlackFriday6,
-  kindoceanBlackFriday7,
-  kindOceanGenericAds,
-  kindOceanGenericAds2,
-  kindOceanGenericAds3,
-  kindOceanGenericAds4,
-  kindOceanGenericAds5,
-  kindOceanGenericAds6,
-  kindOceanGenericAds7,
-  kindOceanGenericAds8,
-  kindOceanAds1,
-  kindOceanAds2,
-  kindOceanAds3,
-  kindOceanAds4,
-  kindOceanAds5,
-  kindOceanAds6,
-  kindOceanMobileBanner,
-  kindOceanWebBanner
-};
+import billyrub from "./projects/BillyRub.png";
+import bla from "./projects/BLA.png";
+import dna from "./projects/DNA.png";
+import silog from "./projects/SILOG.png";
+
+export { androidstudio, tailwindcss, capstoneSolutionPortfolio, pcMaster, billyrub, bla, dna, silog };
