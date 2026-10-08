@@ -17,6 +17,7 @@ import {
   bla,
   dna,
   silog,
+  jicus
 } from "../assets";
 
 export const PROJECTS = [
@@ -30,7 +31,7 @@ export const PROJECTS = [
     id: 1,
     name: "Blessed Land Academy",
     imageUrl: bla,
-    websiteLink: "",
+    websiteLink: "https://github.com/FransManlangit/BLA-Mobile-Frontend.git",
   },
   {
     id: 2,
@@ -38,17 +39,23 @@ export const PROJECTS = [
     imageUrl: capstoneSolutionPortfolio,
     websiteLink: "https://capstonesolutions-portfolio.vercel.app/",
   },
+    {
+    id: 7,
+    name: "Jicus Trading",
+    imageUrl: jicus,
+    websiteLink: "https://github.com/FransManlangit/Jicus-POS-MobileApp-FE.git",
+  },
   {
     id: 6,
     name: "DNA PROFILING",
     imageUrl: dna,
-    websiteLink: "",
+    websiteLink: "https://github.com/FransManlangit",
   },
   {
     id: 5,
     name: "SilogXpress",
     imageUrl: silog,
-    websiteLink: "",
+    websiteLink: "https://github.com/FransManlangit",
   },
   {
     id: 4,

@@ -11,5 +11,6 @@ import billyrub from "./projects/BillyRub.png";
 import bla from "./projects/BLA.png";
 import dna from "./projects/DNA.png";
 import silog from "./projects/SILOG.png";
+import jicus from "./projects/Jicus.png";
 
-export { androidstudio, tailwindcss, capstoneSolutionPortfolio, pcMaster, billyrub, bla, dna, silog };
+export { androidstudio, tailwindcss, capstoneSolutionPortfolio, pcMaster, billyrub, bla, dna, silog, jicus };
